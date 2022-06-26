@@ -1,0 +1,4 @@
+name: SteveParty
+version: '${project.version}'
+main: com.erimus.steveparty.SteveParty
+api-version: 1.18
